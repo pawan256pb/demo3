@@ -69,15 +69,15 @@ main {
 }
 
 .more-info {
-  background-color: #f0f0f0;
-  padding: 1rem;
+  color: #f0f0f0;
+  padding: 5rem;
   margin-top: 1rem;
 }
 
 /* About Section Styles */
 #about {
   padding: 2rem;
-  background-color: #f0f0f0;
+  color: #f0f0f0;
 }
 
 /* Contact Section Styles */
